@@ -1,4 +1,4 @@
 IA-projekt
 ==========
 
-Inte den blekaste
+Wordpress blablabla
