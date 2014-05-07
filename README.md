@@ -1,4 +1,3 @@
 IA-projekt
-==========
 
-Wordpress blablabla
+Hemsida för Jeanette gjord i Wordpress blablabla
